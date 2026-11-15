@@ -9,6 +9,9 @@ Speak a sale in your own language (even Hinglish):
 → items, quantities and prices are extracted · customer **Ramesh** + payment mode **Udhaar** are understood ·
 the bill is saved, the udhaar balance updates, a WhatsApp bill/reminder is one tap away, and the total is read back in your language.
 
+## App gone to sleep
+If the app shows “gone to sleep” (free hosting), click “Yes, get this app back up!”. It starts in about 5 to 10 seconds.
+
 ## Gnani models used
 | Model | Used for |
 |---|---|
