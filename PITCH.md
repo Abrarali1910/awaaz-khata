@@ -14,6 +14,9 @@ The shopkeeper just speaks:
 
 Awaaz Khata understands the items, quantities and prices, recognises the customer and payment mode (cash, UPI or udhaar), saves the bill, updates Ramesh's balance, and reads the total back aloud. A WhatsApp bill or reminder is one tap away.
 
+## App gone to sleep
+If the app shows “gone to sleep” (free hosting), click “Yes, get this app back up!”. It starts in about 5 to 10 seconds.
+
 ## How Gnani's models are used
 - **Gnani Prisma (speech-to-text):** transcribes Indian-language and code-mixed Hinglish speech, with numbers returned as digits.
 - **Gnani Timbre v2.5 (text-to-speech):** reads back totals and daily summaries in 9 Indian languages, so the shopkeeper can check without looking at the screen.
